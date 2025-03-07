@@ -66,13 +66,7 @@ Fetch Result: Success
 
 ## Running the Reproduction
 
-To run the test:
-
-```
-npm start
-```
-
-Or directly:
+To run;
 
 ```
 npx tsx src/index.ts
